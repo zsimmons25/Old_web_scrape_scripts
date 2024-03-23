@@ -1,0 +1,1 @@
+var a = document.querySelectorAll('div[class="tbl-cell col-xs-12"]>a[class="ng-binding"]'),t=0,n= a.length; while((n - 3)>t){     a[t].setAttribute('target','_blank');     t++; }
